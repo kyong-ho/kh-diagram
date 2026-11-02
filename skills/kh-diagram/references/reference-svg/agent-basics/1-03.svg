@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="Codex는 일을 시작하기 전에 AGENTS.md부터 읽습니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="470" fill="#fff"/>
+<rect x="8" y="8" width="944" height="454" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">Codex는 일을 시작하기 전에 AGENTS.md부터 읽습니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="432" width="190" height="30"/><rect x="872" y="432" width="80" height="30"/></g>
+<text x="692" y="452" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">에이전트 기초 가이드</text>
+<text x="882" y="452" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 1-3</text>
+<text x="18" y="453" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="90" width="400" height="290" rx="4" fill="#EEF3F8" stroke="#17406D" stroke-width="1.5"/>
+<text x="58" y="118" font-size="15" fill="#17406D" font-weight="700" text-anchor="start">작업 폴더 (agent-practice)</text>
+<rect x="60" y="138" width="360" height="62" rx="4" fill="#FFF6DC" stroke="#17406D" stroke-width="1.5"/>
+<text x="76" y="166.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">AGENTS.md</text>
+<text x="76" y="186.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">이 폴더의 규칙. 가장 먼저 읽음</text>
+<rect x="60" y="214" width="360" height="62" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="76" y="242.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">README.md, docs/작업일지.md</text>
+<text x="76" y="262.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">지난 작업의 기록</text>
+<rect x="60" y="290" width="360" height="62" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="76" y="318.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">index.html 등</text>
+<text x="76" y="338.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">내가 시킨 결과물</text>
+<circle cx="530" cy="169" r="13" fill="#17406D"/>
+<text x="530" y="174" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">1</text>
+<text x="556" y="166" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">규칙 읽기</text>
+<text x="556" y="188" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">작업 범위, 하지 말 것, 말투</text>
+<circle cx="530" cy="245" r="13" fill="#17406D"/>
+<text x="530" y="250" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">2</text>
+<text x="556" y="242" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">지시 받기</text>
+<text x="556" y="264" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">지난 기록과 내가 보낸 요청</text>
+<circle cx="530" cy="321" r="13" fill="#17406D"/>
+<text x="530" y="326" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">3</text>
+<text x="556" y="318" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">일하기</text>
+<text x="556" y="340" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">규칙 안에서 파일을 만들고 고침</text>
+<path d="M422,169 L512,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M422,245 L512,245" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M512,321 L424,321" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<text x="40" y="418" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">규칙을 한 번 적어 두면 매번 말하지 않아도 Codex가 그대로 일합니다. 4장 실습에서 이 파일을 직접 만듭니다.</text>
+</svg>

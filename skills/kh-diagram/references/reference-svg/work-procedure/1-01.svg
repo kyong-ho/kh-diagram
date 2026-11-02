@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="절차서를 읽은 AI는 우리 방식대로 결과물을 만듭니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="540" fill="#fff"/>
+<rect x="8" y="8" width="944" height="524" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">절차서를 읽은 AI는 우리 방식대로 결과물을 만듭니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="502" width="190" height="30"/><rect x="872" y="502" width="80" height="30"/></g>
+<text x="692" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">AI 업무 절차서 가이드</text>
+<text x="882" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 1-1</text>
+<text x="18" y="523" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="96" width="230" height="290" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="58" y="126" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">내 머릿속</text>
+<text x="58" y="164" font-size="13.5" fill="#23272E" font-weight="400" text-anchor="start">· 우리 양식의 칸</text>
+<text x="58" y="196" font-size="13.5" fill="#23272E" font-weight="400" text-anchor="start">· 파일 이름 규칙</text>
+<text x="58" y="228" font-size="13.5" fill="#23272E" font-weight="400" text-anchor="start">· 지난주 할 일 옮기기</text>
+<text x="58" y="260" font-size="13.5" fill="#23272E" font-weight="400" text-anchor="start">· 금액은 적지 않기</text>
+<text x="58" y="306" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">AI는 모릅니다</text>
+<text x="58" y="330" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">모르면 흔한 방식으로</text>
+<text x="58" y="352" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">추측해서 채웁니다</text>
+<rect x="320" y="150" width="230" height="190" rx="4" fill="#FFF6DC" stroke="#17406D" stroke-width="1.5"/>
+<text x="338" y="180" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">절차서 파일</text>
+<rect x="338" y="198" width="194" height="62" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="354" y="226.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">docs/절차-○○.md</text>
+<text x="354" y="246.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">언제, 누가, 받는 것, 단계…</text>
+<text x="338" y="300" font-size="13" fill="#2C7A4B" font-weight="700" text-anchor="start">폴더에 남습니다</text>
+<path d="M272,245 L318,245" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="296" y="233" font-size="13" fill="#17406D" font-weight="700" text-anchor="middle">인터뷰</text>
+<rect x="610" y="110" width="140" height="92" rx="4" fill="#EEF3F8" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="626" y="153.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">Codex</text>
+<text x="626" y="173.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">읽고 일합니다</text>
+<rect x="790" y="110" width="130" height="92" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="806" y="153.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">결과물</text>
+<text x="806" y="173.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">우리 양식대로</text>
+<path d="M552,200 L608,160" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<text x="572" y="168" font-size="13" fill="#2C7A4B" font-weight="700" text-anchor="middle">읽기</text>
+<path d="M752,156 L788,156" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<rect x="610" y="270" width="310" height="72" rx="4" fill="#fff" stroke="#5A6675" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="626" y="303.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">동료</text>
+<text x="626" y="323.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">같은 파일을 인수인계서로 읽습니다</text>
+<path d="M552,290 L608,302" fill="none" stroke="#5A6675" stroke-width="2" marker-end="url(#am)"/>
+<text x="610" y="234" font-size="13" fill="#2C7A4B" font-weight="700" text-anchor="start">첫째 목적: AI에게 읽히기</text>
+<text x="610" y="370" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">덤: 사람도 읽을 수 있습니다</text>
+<text x="40" y="440" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">AI의 실력은 같습니다. 컨텍스트에 우리 방식이 들어 있느냐가 결과물을 바꿉니다.</text>
+<text x="40" y="464" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">절차서는 지금 하는 순서를 있는 그대로 적은 파일입니다. 한 번 적어 두면 새 대화에서도 다시 읽게 합니다.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" width="960" height="500" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="질문 하나, 답 하나를 되풀이하고 저장 전에 정리본을 봅니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="500" fill="#fff"/>
+<rect x="8" y="8" width="944" height="484" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">질문 하나, 답 하나를 되풀이하고 저장 전에 정리본을 봅니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="462" width="190" height="30"/><rect x="872" y="462" width="80" height="30"/></g>
+<text x="692" y="482" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">AI 업무 절차서 가이드</text>
+<text x="882" y="482" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 3-1</text>
+<text x="18" y="483" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="110" width="220" height="70" rx="4" fill="#EEF3F8" stroke="#17406D" stroke-width="1.5"/>
+<text x="56" y="142.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">Codex</text>
+<text x="56" y="162.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">질문 하나를 합니다</text>
+<rect x="40" y="260" width="220" height="70" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="56" y="292.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">나</text>
+<text x="56" y="312.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">사실만 짧게 답합니다</text>
+<path d="M110,182 L110,258" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M190,258 L190,182" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<text x="124" y="226" font-size="13" fill="#17406D" font-weight="700" text-anchor="start">질문</text>
+<text x="204" y="226" font-size="13" fill="#2C7A4B" font-weight="700" text-anchor="start">답</text>
+<rect x="300" y="110" width="300" height="220" rx="4" fill="#fff" stroke="#C9D3DF" stroke-width="1.5"/>
+<text x="316" y="136" font-size="14" fill="#23272E" font-weight="700" text-anchor="start">되풀이하며 채우는 칸</text>
+<text x="316" y="170" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">언제 → 누가 → 받는 것</text>
+<text x="316" y="200" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">단계(처음부터 끝까지)</text>
+<text x="316" y="230" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">만드는 것 → 주의할 점</text>
+<text x="316" y="260" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">완료 확인</text>
+<text x="316" y="300" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">모르면 &quot;모름&quot; → 빈칸으로 둠</text>
+<path d="M262,220 L298,220" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="660" y="110" width="260" height="70" rx="4" fill="#FFF6DC" stroke="#17406D" stroke-width="1.5"/>
+<text x="676" y="142.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">정리본 보기</text>
+<text x="676" y="162.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">대화창에서 먼저 읽습니다</text>
+<rect x="660" y="260" width="260" height="70" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="676" y="292.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">파일로 저장</text>
+<text x="676" y="312.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">&quot;맞아, 저장해 줘&quot; 뒤에만</text>
+<path d="M602,145 L658,145" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M790,182 L790,258" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<path d="M660,165 L630,165 L630,300 L602,300" fill="none" stroke="#C2362B" stroke-width="2" marker-end="url(#ar)" stroke-dasharray="5 4"/>
+<text x="470" y="356" font-size="13" fill="#C2362B" font-weight="700" text-anchor="middle">틀린 곳이 있으면 말로 고치고 정리본을 다시 봅니다</text>
+<text x="40" y="416" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">Codex가 묻고 내가 답합니다. 내가 말하지 않은 내용이 정리본에 있으면 &quot;어디서 가져왔어?&quot;라고 묻습니다.</text>
+</svg>

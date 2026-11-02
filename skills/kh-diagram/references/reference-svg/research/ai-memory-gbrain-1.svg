@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 590" width="960" height="590" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="문장을 만드는 것은 LLM 하나뿐입니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="590" fill="#fff"/>
+<rect x="8" y="8" width="944" height="574" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">문장을 만드는 것은 LLM 하나뿐입니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="552" width="190" height="30"/><rect x="872" y="552" width="80" height="30"/></g>
+<text x="692" y="572" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">리서치</text>
+<text x="882" y="572" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 1</text>
+<text x="18" y="573" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="236" width="100" height="84" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="90" y="272" font-size="17" fill="#17406D" font-weight="700" text-anchor="middle">사용자</text>
+<text x="90" y="296" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="middle">사람</text>
+<rect x="180" y="200" width="190" height="150" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="194" y="226" font-size="15" fill="#2C7A4B" font-weight="700" text-anchor="start">클라우드 (LLM 제공사)</text>
+<rect x="194" y="244" width="162" height="72" rx="4" fill="#fff" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="210" y="277.0" font-size="16" fill="#2C7A4B" font-weight="700" text-anchor="start">LLM</text>
+<text x="210" y="297.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">문장을 만듭니다</text>
+<rect x="450" y="84" width="470" height="420" rx="4" fill="#EEF3F8" stroke="#17406D" stroke-width="1.5"/>
+<text x="468" y="110" font-size="15" fill="#17406D" font-weight="700" text-anchor="start">내 PC (로컬)</text>
+<rect x="470" y="240" width="180" height="80" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="486" y="277.0" font-size="16" fill="#17406D" font-weight="700" text-anchor="start">GBrain</text>
+<text x="486" y="297.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">찾고, 잇고, 넣습니다</text>
+<rect x="720" y="120" width="184" height="68" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="736" y="151.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">PGLite 데이터베이스</text>
+<text x="736" y="171.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">~/.gbrain/brain.pglite</text>
+<rect x="720" y="340" width="184" height="68" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="736" y="371.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">마크다운 리포</text>
+<text x="736" y="391.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">기록의 원본, 내 파일</text>
+<rect x="470" y="412" width="180" height="68" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="486" y="443.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">bge-m3 (Ollama)</text>
+<text x="486" y="463.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">문장을 좌표로 바꿉니다</text>
+<path d="M140,280 L192,280" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="160" y="270" font-size="13.5" fill="#17406D" font-weight="700" text-anchor="middle">질문</text>
+<path d="M356,266 L468,266" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="410" y="256" font-size="13.5" fill="#17406D" font-weight="700" text-anchor="middle">검색 요청</text>
+<path d="M468,298 L358,298" fill="none" stroke="#5A6675" stroke-width="2" marker-end="url(#am)" stroke-dasharray="5 4"/>
+<text x="410" y="320" font-size="13.5" fill="#5A6675" font-weight="700" text-anchor="middle">근거 조각</text>
+<path d="M530,240 L530,140 L718,140" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="624" y="130" font-size="13.5" fill="#17406D" font-weight="700" text-anchor="middle">좌표로 저장</text>
+<path d="M718,170 L590,170 L590,238" fill="none" stroke="#5A6675" stroke-width="2" marker-end="url(#am)" stroke-dasharray="5 4"/>
+<text x="654" y="192" font-size="13.5" fill="#5A6675" font-weight="700" text-anchor="middle">검색 결과</text>
+<path d="M718,374 L690,374 L690,280 L652,280" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="708" y="396" font-size="13.5" fill="#17406D" font-weight="700" text-anchor="end">동기화</text>
+<path d="M530,320 L530,410" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="522" y="371" font-size="13.5" fill="#17406D" font-weight="700" text-anchor="end">문장 조각</text>
+<path d="M590,412 L590,322" fill="none" stroke="#5A6675" stroke-width="2" marker-end="url(#am)" stroke-dasharray="5 4"/>
+<text x="598" y="371" font-size="13.5" fill="#5A6675" font-weight="700" text-anchor="start">숫자 1,024개</text>
+<text x="40" y="536" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">실선은 요청, 점선은 결과가 돌아오는 방향입니다. 내 PC 안의 셋은 문장을 만들지 않습니다.</text>
+</svg>

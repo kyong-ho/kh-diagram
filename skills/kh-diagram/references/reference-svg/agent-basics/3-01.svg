@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="AI는 봉투에 든 것만 보고 일합니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="540" fill="#fff"/>
+<rect x="8" y="8" width="944" height="524" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">AI는 봉투에 든 것만 보고 일합니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="502" width="190" height="30"/><rect x="872" y="502" width="80" height="30"/></g>
+<text x="692" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">에이전트 기초 가이드</text>
+<text x="882" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 3-1</text>
+<text x="18" y="523" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="110" width="500" height="330" rx="6" fill="#EEF3F8" stroke="#17406D" stroke-width="2"/>
+<path d="M40,110 L290.0,170 L540,110" fill="none" stroke="#17406D" stroke-width="2" stroke-linejoin="round"/>
+<text x="290.0" y="96" font-size="15" fill="#17406D" font-weight="700" text-anchor="middle">컨텍스트 (AI가 지금 보고 있는 것)</text>
+<rect x="64" y="200" width="216" height="84" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="80" y="239.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">① 기본 규칙</text>
+<text x="80" y="259.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">원래 갖고 있는 지식</text>
+<rect x="300" y="200" width="216" height="84" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="316" y="239.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">② AGENTS.md</text>
+<text x="316" y="259.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">폴더의 업무 안내서</text>
+<rect x="64" y="310" width="216" height="84" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="80" y="349.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">③ 열어 본 파일</text>
+<text x="80" y="369.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">폴더에서 읽은 파일</text>
+<rect x="300" y="310" width="216" height="84" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="316" y="349.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">④ 지금까지의 대화</text>
+<text x="316" y="369.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">이 대화창의 말</text>
+<text x="600" y="134" font-size="15" fill="#C2362B" font-weight="700" text-anchor="start">봉투 밖: AI가 모릅니다</text>
+<rect x="600" y="154" width="320" height="54" rx="4" fill="#fff" stroke="#C2362B" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="618" y="187" font-size="14.5" fill="#23272E" font-weight="700" text-anchor="start">우리 부서가 하는 일</text>
+<rect x="600" y="228" width="320" height="54" rx="4" fill="#fff" stroke="#C2362B" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="618" y="261" font-size="14.5" fill="#23272E" font-weight="700" text-anchor="start">어제 다른 대화에서 정한 것</text>
+<rect x="600" y="302" width="320" height="54" rx="4" fill="#fff" stroke="#C2362B" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="618" y="335" font-size="14.5" fill="#23272E" font-weight="700" text-anchor="start">내 머릿속의 &quot;보기 좋은 모양&quot;</text>
+<path d="M600,183 L560,183 L560,300 L544,300" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<text x="600" y="400" font-size="13.5" fill="#2C7A4B" font-weight="700" text-anchor="start">말해 주거나 파일로 넣어 주면</text>
+<text x="600" y="422" font-size="13.5" fill="#2C7A4B" font-weight="700" text-anchor="start">봉투 안으로 들어가 AI가 압니다</text>
+<text x="40" y="486" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">결과가 이상하면 AI를 탓하기 전에 봉투에서 무엇이 빠졌는지 찾습니다.</text>
+</svg>

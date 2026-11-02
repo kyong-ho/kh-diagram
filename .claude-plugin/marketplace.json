@@ -1,0 +1,11 @@
+{
+  "name": "kh-diagram",
+  "owner": { "name": "kyong-ho" },
+  "plugins": [
+    {
+      "name": "kh-diagram",
+      "source": "./",
+      "description": "교육 자료·문서의 본문 그림(SVG 도해)을 늘 같은 디자인으로 그리는 스킬"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="예시 한 줄을 주면 결과가 흔들리지 않습니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="540" fill="#fff"/>
+<rect x="8" y="8" width="944" height="524" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">예시 한 줄을 주면 결과가 흔들리지 않습니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="502" width="190" height="30"/><rect x="872" y="502" width="80" height="30"/></g>
+<text x="692" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">에이전트 기초 가이드</text>
+<text x="882" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 2-3</text>
+<text x="18" y="523" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<text x="40" y="100" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">&quot;반복 업무를 표로 만들어 줘&quot;</text>
+<text x="40" y="124" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">첫 번째와 두 번째 결과가 다릅니다</text>
+<rect x="40" y="140" width="280" height="86" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="50" y="160" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">업무</text>
+<text x="170" y="160" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">비고</text>
+<line x1="40" y1="170" x2="320" y2="170" stroke="#C9D3DF"/>
+<text x="50" y="190" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">회의록</text>
+<text x="170" y="190" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">매주</text>
+<text x="50" y="218" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">보고서 취합</text>
+<text x="170" y="218" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">월말</text>
+<rect x="40" y="232" width="280" height="86" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="50" y="252" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">구분</text>
+<text x="130" y="252" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">업무 내용</text>
+<text x="260" y="252" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">주기</text>
+<line x1="40" y1="262" x2="320" y2="262" stroke="#C9D3DF"/>
+<text x="50" y="282" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">1</text>
+<text x="130" y="282" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">주간 회의록 작성</text>
+<text x="260" y="282" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">주 1회</text>
+<text x="50" y="310" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">2</text>
+<text x="130" y="310" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">월간 보고</text>
+<text x="260" y="310" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">월 1회</text>
+<text x="500" y="100" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">&quot;…열은 업무명, 주기, 담당 순서.</text>
+<text x="500" y="124" font-size="15" fill="#23272E" font-weight="700" text-anchor="start">첫 줄 예: 주간 회의록 작성 / 매주 월 / 홍길동&quot;</text>
+<text x="500" y="148" font-size="12.5" fill="#2C7A4B" font-weight="700" text-anchor="start">몇 번을 시켜도 같은 모양입니다</text>
+<rect x="500" y="164" width="380" height="86" rx="4" fill="#fff" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="510" y="184" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">업무명</text>
+<text x="670" y="184" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">주기</text>
+<text x="770" y="184" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">담당</text>
+<line x1="500" y1="194" x2="880" y2="194" stroke="#C9D3DF"/>
+<text x="510" y="214" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">주간 회의록 작성</text>
+<text x="670" y="214" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">매주 월</text>
+<text x="770" y="214" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">홍길동</text>
+<text x="510" y="242" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">월간 실적 취합</text>
+<text x="670" y="242" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">매월 말</text>
+<text x="770" y="242" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">홍길동</text>
+<rect x="500" y="256" width="380" height="86" rx="4" fill="#fff" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="510" y="276" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">업무명</text>
+<text x="670" y="276" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">주기</text>
+<text x="770" y="276" font-size="12" fill="#23272E" font-weight="700" text-anchor="start">담당</text>
+<line x1="500" y1="286" x2="880" y2="286" stroke="#C9D3DF"/>
+<text x="510" y="306" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">주간 회의록 작성</text>
+<text x="670" y="306" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">매주 월</text>
+<text x="770" y="306" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">홍길동</text>
+<text x="510" y="334" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">자재 단가 정리</text>
+<text x="670" y="334" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">격주 금</text>
+<text x="770" y="334" font-size="12" fill="#23272E" font-weight="400" text-anchor="start">홍길동</text>
+<line x1="470" y1="96" x2="470" y2="350" stroke="#C9D3DF" stroke-width="1.5"/>
+<rect x="40" y="380" width="880" height="64" rx="4" fill="#FFF6DC" stroke="#FFD978" stroke-width="1.5"/>
+<text x="60" y="406" font-size="14.5" fill="#23272E" font-weight="700" text-anchor="start">기억은 파일로 남깁니다</text>
+<text x="60" y="428" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">정한 모양과 내용을 README.md와 docs/작업일지.md에 적어 두면, 새 대화에서도 그 파일을 읽고 같은 모양으로 이어 갑니다.</text>
+<text x="40" y="482" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">같은 지시에 결과가 매번 다른 것은 정상입니다. 원하는 모양은 열 이름, 순서, 예시 한 줄로 고정합니다.</text>
+</svg>

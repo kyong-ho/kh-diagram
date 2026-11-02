@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="요청 한 문장을 4요소로 뜯어보면 이렇습니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="470" fill="#fff"/>
+<rect x="8" y="8" width="944" height="454" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">요청 한 문장을 4요소로 뜯어보면 이렇습니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="432" width="190" height="30"/><rect x="872" y="432" width="80" height="30"/></g>
+<text x="692" y="452" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">에이전트 기초 가이드</text>
+<text x="882" y="452" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 3-2</text>
+<text x="18" y="453" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="100" width="220" height="56" rx="4" fill="#EEF3F8" stroke="#17406D" stroke-width="1.5"/>
+<text x="52" y="134" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">index.html의 &#x27;하는 일&#x27; 부분을</text>
+<line x1="150.0" y1="158" x2="150.0" y2="196" stroke="#17406D" stroke-width="2"/>
+<rect x="40" y="198" width="220" height="40" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="150.0" y="224" font-size="15" fill="#17406D" font-weight="700" text-anchor="middle">대상</text>
+<rect x="270" y="100" width="205" height="56" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="282" y="134" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">세 가지 업무가 한눈에 보이게</text>
+<line x1="372.5" y1="158" x2="372.5" y2="196" stroke="#2C7A4B" stroke-width="2"/>
+<rect x="270" y="198" width="205" height="40" rx="4" fill="#fff" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="372.5" y="224" font-size="15" fill="#2C7A4B" font-weight="700" text-anchor="middle">목표</text>
+<rect x="485" y="100" width="225" height="56" rx="4" fill="#FFF6DC" stroke="#17406D" stroke-width="1.5"/>
+<text x="497" y="134" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">표로. 열은 업무명, 주기, 담당</text>
+<line x1="597.5" y1="158" x2="597.5" y2="196" stroke="#17406D" stroke-width="2"/>
+<rect x="485" y="198" width="225" height="40" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="597.5" y="224" font-size="15" fill="#17406D" font-weight="700" text-anchor="middle">형식</text>
+<rect x="720" y="100" width="180" height="56" rx="4" fill="#FCEDEB" stroke="#C2362B" stroke-width="1.5"/>
+<text x="732" y="134" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">다른 부분은 건드리지 마</text>
+<line x1="810.0" y1="158" x2="810.0" y2="196" stroke="#C2362B" stroke-width="2"/>
+<rect x="720" y="198" width="180" height="40" rx="4" fill="#fff" stroke="#C2362B" stroke-width="1.5"/>
+<text x="810.0" y="224" font-size="15" fill="#C2362B" font-weight="700" text-anchor="middle">금지</text>
+<text x="40" y="284" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">대상이 빠지면</text>
+<text x="40" y="306" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">엉뚱한 곳을 고칩니다</text>
+<text x="265" y="284" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">목표가 빠지면</text>
+<text x="265" y="306" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">추측해서 만듭니다</text>
+<text x="490" y="284" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">형식가 빠지면</text>
+<text x="490" y="306" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">모양이 매번 다릅니다</text>
+<text x="715" y="284" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">금지가 빠지면</text>
+<text x="715" y="306" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">다른 곳까지 바꿉니다</text>
+<rect x="40" y="334" width="880" height="52" rx="4" fill="#fff" stroke="#C9D3DF" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="56" y="365" font-size="13.5" fill="#23272E" font-weight="400" text-anchor="start">막연한 요청: &quot;더 예쁘게 해 줘&quot;  →  대상, 형식, 금지가 비어 있습니다</text>
+<text x="40" y="424" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">결과가 마음에 들지 않으면 넷 중 무엇이 빠졌는지 찾습니다. 대부분 하나가 비어 있습니다.</text>
+</svg>

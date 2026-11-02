@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="같은 부탁을 스킬 없이 한 번, 스킬을 설치하고 한 번 합니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="520" fill="#fff"/>
+<rect x="8" y="8" width="944" height="504" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">같은 부탁을 스킬 없이 한 번, 스킬을 설치하고 한 번 합니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="482" width="190" height="30"/><rect x="872" y="482" width="80" height="30"/></g>
+<text x="692" y="502" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">AI 스킬 가이드</text>
+<text x="882" y="502" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 4-1</text>
+<text x="18" y="503" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="36" y="110" width="132" height="118" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<circle cx="56" cy="136" r="13" fill="#17406D"/>
+<text x="56" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">1</text>
+<text x="48" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">스킬 없이 부탁</text>
+<line x1="46" y1="186" x2="158" y2="186" stroke="#C9D3DF"/>
+<text x="48" y="210" font-size="12" fill="#17406D" font-weight="700" text-anchor="start">design-a.html</text>
+<path d="M170,169 L184,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="186" y="110" width="132" height="118" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<circle cx="206" cy="136" r="13" fill="#17406D"/>
+<text x="206" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">2</text>
+<text x="198" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">공개 스킬 설치</text>
+<line x1="196" y1="186" x2="308" y2="186" stroke="#C9D3DF"/>
+<text x="198" y="210" font-size="12" fill="#17406D" font-weight="700" text-anchor="start">말로 부탁해 설치</text>
+<path d="M320,169 L334,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="336" y="110" width="132" height="118" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<circle cx="356" cy="136" r="13" fill="#2C7A4B"/>
+<text x="356" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">3</text>
+<text x="348" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">같은 부탁 다시</text>
+<line x1="346" y1="186" x2="458" y2="186" stroke="#C9D3DF"/>
+<text x="348" y="210" font-size="12" fill="#2C7A4B" font-weight="700" text-anchor="start">design-b.html</text>
+<path d="M470,169 L484,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="486" y="110" width="132" height="118" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<circle cx="506" cy="136" r="13" fill="#17406D"/>
+<text x="506" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">4</text>
+<text x="498" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">두 페이지 비교</text>
+<line x1="496" y1="186" x2="608" y2="186" stroke="#C9D3DF"/>
+<text x="498" y="210" font-size="12" fill="#17406D" font-weight="700" text-anchor="start">달라진 곳과 까닭</text>
+<path d="M620,169 L634,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="636" y="110" width="132" height="118" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<circle cx="656" cy="136" r="13" fill="#17406D"/>
+<text x="656" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">5</text>
+<text x="648" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">골라서 하나 더</text>
+<line x1="646" y1="186" x2="758" y2="186" stroke="#C9D3DF"/>
+<text x="648" y="210" font-size="12" fill="#17406D" font-weight="700" text-anchor="start">고른 공개 스킬</text>
+<path d="M770,169 L784,169" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<rect x="786" y="110" width="132" height="118" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<circle cx="806" cy="136" r="13" fill="#17406D"/>
+<text x="806" y="141" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">6</text>
+<text x="798" y="172" font-size="13" fill="#23272E" font-weight="700" text-anchor="start">내 스킬과 비교</text>
+<line x1="796" y1="186" x2="908" y2="186" stroke="#C9D3DF"/>
+<text x="798" y="210" font-size="12" fill="#17406D" font-weight="700" text-anchor="start">가져올 점 하나</text>
+<rect x="26" y="96" width="456" height="146" rx="4" fill="none" stroke="#C2362B" stroke-width="1.5" stroke-dasharray="6 5"/>
+<rect x="60" y="300" width="380" height="96" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="76" y="328" font-size="12.5" fill="#C2362B" font-weight="700" text-anchor="start">같은 부탁 (다른 것은 스킬 하나)</text>
+<text x="76" y="354" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">index.html을 내용은 그대로 두고</text>
+<text x="76" y="376" font-size="13" fill="#23272E" font-weight="400" text-anchor="start">디자인만 새로 해서 ○○로 만들어 줘</text>
+<path d="M102,300 L102,244" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M402,300 L402,244" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<text x="40" y="440" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">1단계와 3단계는 부탁 문장이 같고, 그 사이에 스킬을 설치합니다. 그래서 두 페이지의 차이는 스킬이 만든 것입니다.</text>
+<text x="40" y="464" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">5단계는 internal-comms, theme-factory, discernment-nudge 중 내 업무에 가까운 하나를 골라 같은 방법으로 설치합니다.</text>
+</svg>

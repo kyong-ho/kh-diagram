@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="절차서는 받는 것이 단계를 거쳐 만드는 것이 되는 흐름입니다">
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<rect width="960" height="540" fill="#fff"/>
+<rect x="8" y="8" width="944" height="524" fill="none" stroke="#17406D" stroke-width="1.5"/>
+<text x="36" y="52" font-size="23" fill="#17406D" font-weight="700" text-anchor="start">절차서는 받는 것이 단계를 거쳐 만드는 것이 되는 흐름입니다</text>
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="502" width="190" height="30"/><rect x="872" y="502" width="80" height="30"/></g>
+<text x="692" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">AI 업무 절차서 가이드</text>
+<text x="882" y="522" font-size="12" fill="#17406D" font-weight="400" text-anchor="start">그림 2-1</text>
+<text x="18" y="523" font-size="10" fill="#8A96A5" font-weight="400" text-anchor="start">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+<rect x="40" y="92" width="420" height="62" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="56" y="120.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">① 언제</text>
+<text x="56" y="140.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">매주 월요일 오전 회의가 끝난 뒤</text>
+<rect x="500" y="92" width="420" height="62" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="516" y="120.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">② 누가</text>
+<text x="516" y="140.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">작성: 홍길동 / 확인: 팀장</text>
+<rect x="40" y="196" width="230" height="140" rx="4" fill="#EEF3F8" stroke="#17406D" stroke-width="1.5"/>
+<text x="56" y="263.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">③ 받는 것</text>
+<text x="56" y="283.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">회의 메모, 지난주 회의록</text>
+<rect x="320" y="196" width="320" height="140" rx="4" fill="#fff" stroke="#17406D" stroke-width="1.5"/>
+<text x="336" y="222" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">④ 단계</text>
+<text x="336" y="250" font-size="12.5" fill="#23272E" font-weight="400" text-anchor="start">1. 메모를 옮겨 적는다</text>
+<text x="336" y="272" font-size="12.5" fill="#23272E" font-weight="400" text-anchor="start">2. 파일 이름을 날짜로 바꾼다</text>
+<text x="336" y="294" font-size="12.5" fill="#23272E" font-weight="400" text-anchor="start">3. 안건을 순서대로 적는다</text>
+<text x="336" y="316" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">…  한 줄에 동작 하나</text>
+<rect x="690" y="196" width="230" height="140" rx="4" fill="#EAF5EE" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="706" y="263.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">⑤ 만드는 것</text>
+<text x="706" y="283.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">이번 주 회의록 1개</text>
+<path d="M272,266 L318,266" fill="none" stroke="#17406D" stroke-width="2" marker-end="url(#ai)"/>
+<path d="M642,266 L688,266" fill="none" stroke="#2C7A4B" stroke-width="2" marker-end="url(#ag)"/>
+<rect x="40" y="378" width="420" height="62" rx="4" fill="#FFF6DC" stroke="#17406D" stroke-width="1.5"/>
+<text x="56" y="406.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">⑥ 주의할 점</text>
+<text x="56" y="426.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">결정 사항과 의견을 섞지 않는다</text>
+<rect x="500" y="378" width="420" height="62" rx="4" fill="#fff" stroke="#2C7A4B" stroke-width="1.5"/>
+<text x="516" y="406.0" font-size="16" fill="#23272E" font-weight="700" text-anchor="start">⑦ 완료 확인</text>
+<text x="516" y="426.0" font-size="12.5" fill="#5A6675" font-weight="400" text-anchor="start">팀장이 확인했고 공유 폴더에 있다</text>
+<text x="40" y="484" font-size="13.5" fill="#5A6675" font-weight="400" text-anchor="start">맨 위에는 업무 이름을 제목으로 둡니다. 모르는 칸은 &quot;(빈칸: 확인 필요)&quot;로 남깁니다. 사람, 업무는 가짜 예시입니다.</text>
+</svg>
