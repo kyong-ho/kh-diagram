@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="같은 부탁을 스킬 없이 한 번, 스킬을 설치하고 한 번 합니다">
 <!--
   kh-diagram 도면형(S) 틀. 이 파일을 복사해 그림을 그린다(쓰는 법: references/svg-template.md).
-  고칠 곳: (1) aria-label과 제목 글  (2) 과정 이름과 "그림 N-N"  (3) 높이 H(420~680)를 바꾸면 [H]가 붙은 네 곳
+  고칠 곳: (1) aria-label과 제목 글  (2) 과정 이름과 "그림 N-N"  (3) 높이 H(420~680)를 바꾸면 네 곳: 첫 줄 svg의 viewBox 넷째 값·height, 아래 [H] 표시가 붙은 rect 두 개, translate(0,H)
   <style>과 <defs>, 테두리·표제란·저작권 줄은 고치지 않는다. 그림은 맨 아래 "그림 내용" 자리에만 쓴다.
 -->
 <style>
