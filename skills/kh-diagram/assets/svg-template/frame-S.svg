@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans CJK KR','Noto Sans KR',sans-serif" role="img" aria-label="그림 제목 문장">
+<!--
+  kh-diagram 도면형(S) 틀. Python이 없을 때 이 파일을 복사해 그림을 그린다(쓰는 법: references/svg-template.md).
+  고칠 곳: (1) aria-label과 제목 글  (2) 과정 이름과 "그림 N-N"  (3) 높이 H(420~680)를 바꾸면 [H]가 붙은 네 곳
+  <style>과 <defs>, 테두리·표제란·저작권 줄은 고치지 않는다. 그림은 맨 아래 "그림 내용" 자리에만 쓴다.
+-->
+<style>
+/* 색은 figlib.py와 같다: INK #17406D, TINT #EEF3F8, G #23272E, MUTE #5A6675, LINE #C9D3DF,
+   RED #C2362B, REDT #FCEDEB, GRN #2C7A4B, GRNT #EAF5EE, AMBT #FFF6DC, BLUE #2F6FDE */
+text{font-size:15px;fill:#23272E;font-weight:400}
+/* 글자: 크기 */
+.f10{font-size:10px}.f105{font-size:10.5px}.f11{font-size:11px}.f12{font-size:12px}.f125{font-size:12.5px}
+.f13{font-size:13px}.f135{font-size:13.5px}.f14{font-size:14px}.f145{font-size:14.5px}.f15{font-size:15px}
+.f155{font-size:15.5px}.f16{font-size:16px}.f17{font-size:17px}.f18{font-size:18px}.f23{font-size:23px}
+/* 글자: 색(없으면 G), 굵기(없으면 400), 정렬(없으면 왼쪽) */
+.ink{fill:#17406D}.grn{fill:#2C7A4B}.red{fill:#C2362B}.mute{fill:#5A6675}.wht{fill:#fff}
+.b{font-weight:700}.mid{text-anchor:middle}.end{text-anchor:end}
+/* 글자: 자주 쓰는 묶음 */
+.title{font-size:23px;fill:#17406D;font-weight:700}
+.h{font-size:16px;font-weight:700}
+.sub{font-size:12.5px;fill:#5A6675}
+.point{font-size:13.5px;fill:#5A6675}
+.tb{font-size:12px;fill:#17406D}
+.copy{font-size:10px;fill:#8A96A5}
+/* 상자(rx는 요소에 적는다: 상자 4, 창 8, 칸 10) */
+.box{fill:#fff;stroke:#17406D;stroke-width:1.5}
+.area{fill:#EEF3F8;stroke:#17406D;stroke-width:1.5}
+.area-g{fill:#EAF5EE;stroke:#2C7A4B;stroke-width:1.5}
+.area-r{fill:#FCEDEB;stroke:#C2362B;stroke-width:1.5}
+.area-a{fill:#FFF6DC;stroke:#17406D;stroke-width:1.5}
+/* 상자 고쳐 쓰기: 면 색, 테두리 색, 점선 */
+.tint{fill:#EEF3F8}.grnt{fill:#EAF5EE}.redt{fill:#FCEDEB}.ambt{fill:#FFF6DC}.clear{fill:none}
+.k-ink{stroke:#17406D}.k-grn{stroke:#2C7A4B}.k-red{stroke:#C2362B}.k-line{stroke:#C9D3DF}.k-g{stroke:#23272E}.k-mute{stroke:#5A6675}
+.dash{stroke-dasharray:5 4}.dash6{stroke-dasharray:6 5}/* 묶어 강조하는 테두리 */
+/* 화면 그림 */
+.win{fill:#fff;stroke:#23272E;stroke-width:1.5}
+.panel{fill:#fff;stroke:#C9D3DF;stroke-width:2}
+.field{fill:#fff;stroke:#C9D3DF;stroke-width:1.5}
+.btn{fill:#2F6FDE;stroke:#2F6FDE;stroke-width:1.5}
+.btn2{fill:#fff;stroke:#C9D3DF;stroke-width:1.5}
+/* 선 */
+.sep{stroke:#C9D3DF}
+/* 화살표: 남색 i, 초록 g, 빨강 r, 회색 m. 돌아오는 결과는 dash를 더한다 */
+.arr-i,.arr-g,.arr-r,.arr-m{fill:none;stroke-width:2}
+.arr-i{stroke:#17406D;marker-end:url(#ai)}.arr-g{stroke:#2C7A4B;marker-end:url(#ag)}
+.arr-r{stroke:#C2362B;marker-end:url(#ar)}.arr-m{stroke:#5A6675;marker-end:url(#am)}
+/* 번호 원: 남색(기본), 초록 g, 빨강 r. 화면 위 누를 곳은 r + 흰 테(halo) */
+.num circle{fill:#17406D}.num.g circle{fill:#2C7A4B}.num.r circle{fill:#C2362B}
+.num circle.halo{fill:#fff}
+.num text{font-size:14px;fill:#fff;font-weight:700;text-anchor:middle}
+</style>
+<defs><marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#17406D"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C2362B"/></marker><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2C7A4B"/></marker><marker id="am" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6675"/></marker></defs>
+<!-- 프레임: 배경, 테두리(height = H-16), 제목 -->
+<rect width="960" height="520" fill="#fff"/><!-- [H] 위 svg의 viewBox 넷째 값, height, 이 rect의 height를 H로 -->
+<rect x="8" y="8" width="944" height="504" fill="none" stroke="#17406D" stroke-width="1.5"/><!-- [H] height = H-16 -->
+<text class="title" x="36" y="52">그림 제목 문장</text>
+<!-- 표제란과 저작권 줄: translate의 둘째 값이 H -->
+<g transform="translate(0,520)"><!-- [H] -->
+<g stroke="#17406D" stroke-width="1" fill="#fff"><rect x="682" y="-38" width="190" height="30"/><rect x="872" y="-38" width="80" height="30"/></g>
+<text class="tb" x="692" y="-18">과정 이름</text>
+<text class="tb" x="882" y="-18">그림 1-1</text>
+<text class="copy" x="18" y="-17">© KYONGHO ENGINEERING &amp; ARCHITECTS</text>
+</g>
+<!-- 그림 내용: 아래부터 쓴다. 맨 아래 요점 줄은 y = H-60 ~ H-54 -->
+
+</svg>

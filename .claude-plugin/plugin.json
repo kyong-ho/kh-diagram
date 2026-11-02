@@ -1,7 +1,7 @@
 {
   "name": "kh-diagram",
   "description": "교육 자료·문서의 본문 그림(SVG 도해)을 늘 같은 디자인으로 그리는 스킬",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": { "name": "KYONGHO ENGINEERING & ARCHITECTS" },
   "homepage": "https://github.com/kyong-ho/kh-diagram",
   "repository": "https://github.com/kyong-ho/kh-diagram",
