@@ -10,6 +10,15 @@
 | **화면 설명** | **비유 만화** |
 | ![프로그램 화면을 단순하게 다시 그리고 빨간 번호와 범례로 누를 곳을 설명하는 그림](skills/kh-diagram/references/reference-svg/github-basics/6-02.svg) | ![사람과 문서 그림으로 파일이 늘어나는 문제를 비유한 그림](skills/kh-diagram/references/reference-svg/github-basics/1-01.svg) |
 
+## 두 가지 스킬
+
+| 스킬 | 쓰는 곳 | 들어 있는 것 |
+|---|---|---|
+| `kh-diagram` | 그림을 계속 만들고 고치는 프로젝트. Python이 있으면 스크립트로, 없으면 틀 방식으로 그린다 | Python 모듈·스크립트, 기준 그림 76장, SVG 틀 |
+| `kh-diagram-svg` | Python이 없고 프로그램을 설치할 수 없는 PC(교육 실습 등). 틀 방식만 | SVG 틀, 예시 그림 3장, 문서. **Python 파일이 없다** |
+
+두 스킬은 같은 틀(`assets/svg-template/frame-S.svg`)을 쓰므로 같은 모양이 나옵니다. 둘 다 그림 요청에 반응하므로 한 곳에는 하나만 설치합니다. `kh-diagram-svg`는 도면형 그림(구조, 흐름, 칸 나열, 화면 설명)만 그리고 비유 만화는 그리지 않습니다.
+
 ## 설치
 
 ### Codex
@@ -28,6 +37,12 @@ mkdir -p ~/.codex/skills
 cp -R kh-diagram/skills/kh-diagram ~/.codex/skills/
 ```
 
+Python 없는 스킬은 이렇게 부탁합니다. 한 프로젝트에만 두려면 "이 폴더의 .agents/skills에 설치해 줘"라고 덧붙입니다.
+
+```text
+kyong-ho/kh-diagram 저장소의 skills/kh-diagram-svg 스킬을 설치해 줘
+```
+
 설치한 뒤 Codex를 새로 열면 쓸 수 있습니다.
 
 ### Claude Code
@@ -38,6 +53,8 @@ Claude Code에서 아래 두 줄을 차례로 입력합니다.
 /plugin marketplace add kyong-ho/kh-diagram
 /plugin install kh-diagram@kh-diagram
 ```
+
+플러그인은 `kh-diagram` 스킬만 설치합니다. `kh-diagram-svg`는 아래처럼 폴더를 복사해 설치합니다(아래 명령의 `kh-diagram`을 `kh-diagram-svg`로 바꿉니다).
 
 직접 설치하려면 스킬 폴더를 `~/.claude/skills/`(모든 프로젝트) 또는 프로젝트의 `.claude/skills/`에 복사합니다.
 
@@ -99,6 +116,13 @@ skills/kh-diagram/
   references/reference-svg/     그 결과 SVG 76장(기준 그림)
   assets/course-template/       새 과정 틀(course.py + 예시 그림 1장)
   assets/svg-template/frame-S.svg  틀 방식의 도면형 프레임(색·선·글꼴 클래스, 화살표 머리)
+
+skills/kh-diagram-svg/          Python 없는 틀 방식 전용 스킬
+  SKILL.md                      순서, 지켜야 할 값, 자주 하는 실수
+  references/style.md           그림 규칙(틀 방식 판)
+  references/svg-template.md    클래스, 부품 조각, 좌표 요령, 확인 방법
+  references/svg-template-examples/  예시 그림 3장(kh-diagram과 같은 파일)
+  assets/svg-template/frame-S.svg   틀(kh-diagram과 같은 파일)
 ```
 
 같은 모양이 나오는지는 아래로 확인합니다. `기준 그림 76장 모두 같음.`이 나오면 됩니다.
@@ -110,6 +134,7 @@ python3 skills/kh-diagram/scripts/verify_examples.py
 ## 알아 둘 것
 
 - 그림 왼쪽 아래에 `© KYONGHO ENGINEERING & ARCHITECTS`가 들어갑니다. 자기 그림에 쓸 때는 프로젝트에 복사된 `scripts/figures/figlib.py`의 `COPYRIGHT` 값을 바꿉니다. 바꾸면 `verify_examples.py`는 모든 그림이 다르다고 알립니다. 틀 방식은 틀(`frame-S.svg`)의 저작권 줄을 바꿉니다.
+- 두 스킬의 `frame-S.svg`와 예시 그림 3장은 같은 파일입니다. 틀을 고칠 때는 두 곳을 같이 고치고 `diff -r skills/kh-diagram/assets/svg-template skills/kh-diagram-svg/assets/svg-template`로 같은지 확인합니다.
 - 글꼴은 맑은 고딕(Windows), Apple SD Gothic Neo(Mac), Noto Sans KR 순으로 씁니다. 운영체제에 따라 글자 폭이 조금 다릅니다.
 - 예시 그림의 내용(GitHub 화면, 교육 가이드 문장)은 본뜨기 위한 예시입니다.
 
